@@ -1,0 +1,27 @@
+[33mcommit 088239df35515b7d2d6e9feccca12c6144cfb780[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: AndresRamos <andresfeliperamos@hotmail.com>
+Date:   Wed Oct 9 11:16:07 2019 +0200
+
+    modificados leeme y copyright
+
+M	copyright.txt
+M	leeme.txt
+
+[33mcommit aa29bc5b7c2bc5b30d7788ebab4f3afc60738213[m
+Author: AndresRamos <andresfeliperamos@hotmail.com>
+Date:   Wed Oct 9 11:03:36 2019 +0200
+
+    añadido index y renombrado leeme
+
+R100	readme.txt	index.html
+A	leeme.txt
+
+[33mcommit c2c0f203ebd49d1761927fe37b70259fa34f2dd6[m
+Author: AndresRamos <andresfeliperamos@hotmail.com>
+Date:   Wed Oct 9 10:59:07 2019 +0200
+
+    Comienzo proyecto, añadidos tres archivos iniciales
+
+A	copyright.txt
+A	license.lic
+A	readme.txt
